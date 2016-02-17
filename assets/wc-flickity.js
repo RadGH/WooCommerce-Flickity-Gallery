@@ -29,4 +29,8 @@ jQuery(function() {
 		freeScroll: true,
 		prevNextButtons: false
 	});
+
+	$slider_nav.on('click', 'a', function(e) {
+		e.preventDefault();
+	});
 });
