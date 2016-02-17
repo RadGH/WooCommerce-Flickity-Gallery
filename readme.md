@@ -36,7 +36,7 @@ It will use a placeholder similar to the default WooCommerce behavior.
 
 **Can this be used outside of WooCommerce, such as for a gallery shortcode?**
 
-No, furthermore the Flickity assets are only loaded on single product pages. If you want to use a gallery for other purposes, you should look for a different plugin.
+No, the Flickity assets are only loaded on single product pages. If you want to use a gallery for other purposes, you should look for a different plugin.
 
 ## Screenshots ##
 
