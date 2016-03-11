@@ -20,7 +20,7 @@ There are no configurable options, simply activate the plugin and you are done. 
 
 ## Installation ##
 
-1. Upload the plugin files to `/wp-content/plugins/noindex-pages/`, or install the plugin through the WordPress plugins screen directly.
+1. Upload the plugin files to `/wp-content/plugins/wc-flickity-gallery/`, or install the plugin through the WordPress plugins screen directly.
 1. Activate the plugin through the 'Plugins' screen in WordPress
 1. Visit one of your products to see the new slider in action.
 
