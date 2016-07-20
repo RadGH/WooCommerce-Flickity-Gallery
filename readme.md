@@ -7,7 +7,7 @@ _Turn your WooCommerce featured image and gallery photos into an interactive ima
     Donate link: https://paypal.me/radgh
     Tags: woocommerce, flickity, gallery, carousel, product
     Requires at least: 4.1
-    Tested up to: 4.4.1
+    Tested up to: 4.5.3
     Stable tag: (none)
     License: GPLv3
     License URI: http://www.gnu.org/licenses/gpl-3.0.txt
@@ -44,6 +44,9 @@ No, the Flickity assets are only loaded on single product pages. If you want to 
 ![Another product with fewer thumbnails](screenshot-2.jpg)
 
 ## Changelog ##
+
+#### 1.0.1
+* Enabled swiping the primary gallery. Continues to open a lightbox, only if you did not swipe first.
 
 #### 1.0
 * First release

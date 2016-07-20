@@ -62,7 +62,7 @@ if ( count($slider_images) === 1 ) {
 	<?php
 	foreach( $slider_images as $img ) {
 		echo sprintf(
-			'<a href="%s" itemprop="image" class="woocommerce-main-image wcfg-primary-image" title="%s" data-rel="prettyPhoto[product-gallery]"><img src="%s" width="%s" height="%s" alt="%s"></a>',
+			'<a href="%s" itemprop="image" class="woocommerce-main-image wcfg-primary-image" title="%s"><img src="%s" width="%s" height="%s" alt="%s"></a>',
 			esc_attr( $img['large'][0] ),
 			esc_attr( $img['caption'] ),
 			esc_attr( $img['medium'][0] ),

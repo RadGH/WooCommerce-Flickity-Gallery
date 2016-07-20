@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WooCommerce - Flickity Gallery
-Version:     1.0.0
+Version:     1.0.1
 Plugin URI:  http://radgh.com/
 Description: Turn your WooCommerce featured image and gallery photos into an interactive image carousel using Flickity.
 Author:      Radley Sustaire
@@ -14,7 +14,7 @@ GNU GENERAL PUBLIC LICENSE
 
 A plugin for WooCommerce to turn product photos into a Flickity gallery.
 
-Copyright (C) 2015 Radley Sustaire
+Copyright (C) 2016 Radley Sustaire
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -34,7 +34,7 @@ if( !defined( 'ABSPATH' ) ) exit;
 
 define( 'WCFG_URL', untrailingslashit(plugin_dir_url( __FILE__ )) );
 define( 'WCFG_PATH', dirname(__FILE__) );
-define( 'WCFG_VERSION', '1.0.0' );
+define( 'WCFG_VERSION', '1.0.1' );
 
 add_action( 'plugins_loaded', 'wcfg_init_plugin' );
 
