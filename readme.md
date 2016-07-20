@@ -48,9 +48,9 @@ No, the Flickity assets are only loaded on single product pages. If you want to 
 #### 1.0.1
 * Enabled swiping the primary gallery. Continues to open a lightbox, only if you did not swipe first.
 
-#### 1.0
+#### 1.0.0
 * First release
 
 ## Upgrade Notice ##
 
-Nothing to note, this is the first version.
+Upgrading from 1.0.0 to 1.0.1 introduces a new version of Flickity. It should not have any adverse affects on your website, unless you are using flickity elsewhere. If you are, then you should make sure those flickity galleries continue to work as expected.
